@@ -300,7 +300,7 @@ main {
   align-items: center;
   gap: 1rem;
 }
-.question h5 {
+.question h4 {
   font-weight: 500;
   line-height: 1.5;
   color: var(--grey-700);
